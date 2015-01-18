@@ -1,10 +1,10 @@
 # projects-template
 A combo of NodeJS + Express + Swig; jQuery + Bootstrap + CanJS + Underscore
 
-#Dependencies
+##Dependencies
 Grunt
 Bower
 
-#Init
+##Init
 npm install
 grunt
